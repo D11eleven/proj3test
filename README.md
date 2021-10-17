@@ -60,6 +60,8 @@ The goal of the project is to provide a consistent, comparable set of scientific
 - Area/Regions of Concern: Which locations would benefit the most from the deployment of preventative measures?
 - Prediction: Are there significant changes in the intensity, speed, or size of wildfires?
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br>
 <br>
 
@@ -80,6 +82,8 @@ Pandas Jupyter Notebook JSON CSV xxxxxxxxxxxxxxx
 
 ### Visualizations
 Through the use of data visualizations, large volumes of data can be readily transformed into comprehensible information to assess high risk areas and help prioritize preventive action.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Dashboard
 Bootstrap Chart.js xxxxxxxxxxxxxxxxxxx
@@ -107,7 +111,7 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 - U.S. DEPARTMENT OF AGRICULTURE - RDS-2013-0009.4_SQLITE
 - Drought.gov
 - xxxx
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 <br>
@@ -117,6 +121,8 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 - Python/Pandas/Flask
 - Jupyter Notebook
 - Javascript/Plotly/D3/Chart.js/[Bootstrap](https://getbootstrap.com)
+  
+  <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
 <br>
@@ -128,6 +134,8 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 
 ### Team
 Dillon Carter ---|--- Felecia Helms ---|--- [Darrell Horich](https://github.com/D11eleven) ---|--- Taylor Lyons
+  
+  <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
