@@ -63,9 +63,11 @@
   </ol>
 </details>
 
-### About the Project
+## About the Project
 
-The Texas Department of Outdoor and Nature Things has recently received an additional $10 million in state funding for wildfire prevention. The department has hired our firm to help make an informed decision about where to best invest their funds.
+The Texas Parks and Wildlife's Fire Management Division has recently received an additional $10 million in state funding for wildfire prevention. The department has hired our firm to help make an informed decision about where to best invest their funds.
+
+The goal of the project is to provide a consistent, comparable set of scientific results to be used as a foundation for wildfire mitigation and prevention planning across Texas. Results of the assessment can be used to help prioritize areas in the state where tactical analyses, community interaction and education, or mitigation treatments might be necessary to reduce risk from wildfires. -tamu
 
 ## Considerations
 - Education and Marketing: Which audience is best suited to receive wildfire prevention education?
@@ -75,9 +77,6 @@ The Texas Department of Outdoor and Nature Things has recently received an addit
 
 ## Proposal
 
-### Project
-The goal of the project is to provide a consistent, comparable set of scientific results to be used as a foundation for wildfire mitigation and prevention planning across Texas. Results of the assessment can be used to help prioritize areas in the state where tactical analyses, community interaction and education, or mitigation treatments might be necessary to reduce risk from wildfires. -tamu
-
 ### Process
 - ETL
 - xxx
@@ -86,14 +85,17 @@ The goal of the project is to provide a consistent, comparable set of scientific
 - Deployment
 
 
-### ETL
+## ETL
+Pandas Jupyter Notebook JSON CSV xxxxxxxxxxxxxxx
 
-### Visualizations
+## Visualizations
 Through the use of data visualizations, large volumes of data can be readily transformed into comprehensible information to assess high risk areas and help prioritize preventive action.
 
-### Dashboard
+## Dashboard
+Bootstrap Chart.js xxxxxxxxxxxxxxxxxxx
 
-### Deployment
+## Deployment
+Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 
 
 
@@ -107,13 +109,9 @@ Through the use of data visualizations, large volumes of data can be readily tra
 ![Screenshot_2](https://user-images.githubusercontent.com/82190357/137281299-81037403-39f6-4d31-bdc9-b2740cc2330a.png)
 
 
-### Problem Solved
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxe.
-
-
 ### Data Sources
 - U.S. DEPARTMENT OF AGRICULTURE - RDS-2013-0009.4_SQLITE
-- xxxx
+- Drought.gov
 - xxxx
 
 ![original (1)](https://user-images.githubusercontent.com/82190357/137281572-0335e82c-8b80-4629-ba77-f52850a4988b.jpg)
