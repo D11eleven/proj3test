@@ -1,4 +1,4 @@
-# proj3test
+
 
 <div id="top"></div>
 <!--
@@ -20,12 +20,35 @@
 
 
 
-#                                                               Fighting Fire with Data <b><b><b>
+#                                                               Fighting Fire with Data 
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary><b>Table of Contents</b></summary>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="Considerations">Considerations</a></li>
+    <li>
+    <a href="Process">Process</a></li?
+        <ul>
+          <li><a href="ETL">ETL</a></li>
+          <li><a href="Visualizations">Visualizations</a></li>
+          <li><a href="Dashboard">Dashboard</a></li>
+          <li><a href="Deployment">Deployment</a></li>
+        </ul>
+    </li>
+    <li><a href="Data-Sources">Data Sources</a></li>
+    <li><a href="Tools">Tools</a></li>
+    <li><a href="Team">Team</a></li>
+  </ol>
+</details>
+
+<br>
+<!-- 
+ <!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -34,22 +57,35 @@
       </ul>
     </li>
     <li>
-      <a href="#Process">Process</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#ETL">ETL</a></li>
-        <li><a href="#Visualizations">Visualizations</a></li>
-        <li><a href="#Dashboard">Dashboard</a></li>
-        <li><a href="#Deployment">Deployment</a></li
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
       </ul>
-    <li><a href="#xxxxx">xxxxx</a></li>
-    <li><a href="#Data Sources">Data Sources</a></li>
-    <li><a href="#Tools">Tools</a></li>
-    <li><a href="#Team">Team</a></li>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
-
-<br>
-
+</details> 
+  
+   -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 ## About the Project
 
