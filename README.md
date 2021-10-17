@@ -28,19 +28,19 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="Considerations">Considerations</a></li>
+    <li><a href="#Considerations">Considerations</a></li>
     <li>
-    <a href="Process">Process</a></li?
+    <a href="#Process">#Process</a></li?
         <ul>
-          <li><a href="ETL">ETL</a></li>
-          <li><a href="Visualizations">Visualizations</a></li>
-          <li><a href="Dashboard">Dashboard</a></li>
-          <li><a href="Deployment">Deployment</a></li>
+          <li><a href="#ETL">ETL</a></li>
+          <li><a href="#Visualizations">Visualizations</a></li>
+          <li><a href="#Dashboard">Dashboard</a></li>
+          <li><a href="#Deployment">Deployment</a></li>
         </ul>
     </li>
-    <li><a href="Data-Sources">Data Sources</a></li>
-    <li><a href="Tools">Tools</a></li>
-    <li><a href="Team">Team</a></li>
+    <li><a href="#Data-Sources">Data Sources</a></li>
+    <li><a href="#Tools">Tools</a></li>
+    <li><a href="#Team">Team</a></li>
   </ol>
 </details>
 
