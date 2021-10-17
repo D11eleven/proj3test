@@ -15,7 +15,7 @@
 
 
 
-</div>
+
 
 
 
@@ -43,9 +43,9 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Data Sources">Data Sources</a></li>
+    <li><a href="#Tools">Tools</a></li>
+    <li><a href="#Team">Team</a></li>
   </ol>
 </details>
 
@@ -75,7 +75,13 @@ The goal of the project is to provide a consistent, comparable set of scientific
 - Area/Regions of Concern: Which locations would benefit the most from the deployment of preventative measures?
 - Prediction: Are there significant changes in the intensity, speed, or size of wildfires?
 
-## Proposal
+<br>
+<br>
+
+![original (1)](https://user-images.githubusercontent.com/82190357/137281572-0335e82c-8b80-4629-ba77-f52850a4988b.jpg)
+
+<br>
+<br>
 
 ## Process
 - ETL
@@ -120,7 +126,7 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 - Drought.gov
 - xxxx
 
-![original (1)](https://user-images.githubusercontent.com/82190357/137281572-0335e82c-8b80-4629-ba77-f52850a4988b.jpg)
+
 <br>
 <br>
 
@@ -128,7 +134,7 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 - MongoDB Atlas/PostgreSQL/pgAdmin
 - Python/Pandas/Flask
 - Jupyter Notebook
-- Javascript/Plotly/D3/Chart.js/* [Bootstrap](https://getbootstrap.com)
+- Javascript/Plotly/D3/Chart.js/[Bootstrap](https://getbootstrap.com)
 
 <br>
 <br>
