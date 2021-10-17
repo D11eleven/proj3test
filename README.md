@@ -77,7 +77,7 @@ The goal of the project is to provide a consistent, comparable set of scientific
 
 ## Proposal
 
-### Process
+## Process
 - ETL
 - xxx
 - Visualizations
@@ -85,17 +85,23 @@ The goal of the project is to provide a consistent, comparable set of scientific
 - Deployment
 
 
-## ETL
+### ETL
 Pandas Jupyter Notebook JSON CSV xxxxxxxxxxxxxxx
 
-## Visualizations
+### Visualizations
 Through the use of data visualizations, large volumes of data can be readily transformed into comprehensible information to assess high risk areas and help prioritize preventive action.
 
-## Dashboard
+### Dashboard
 Bootstrap Chart.js xxxxxxxxxxxxxxxxxxx
 
-## Deployment
+### Deployment
 Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
+
+<br>
+<br>
+<br>
+<br>
+
 
 
 
@@ -115,12 +121,17 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 - xxxx
 
 ![original (1)](https://user-images.githubusercontent.com/82190357/137281572-0335e82c-8b80-4629-ba77-f52850a4988b.jpg)
+<br>
+<br>
 
 ### Tools
-- MongoDB Atlas
+- MongoDB Atlas/PostgreSQL/pgAdmin
 - Python/Pandas/Flask
 - Jupyter Notebook
-- Javascript/Plotly/D3/Chart.js
+- Javascript/Plotly/D3/Chart.js/* [Bootstrap](https://getbootstrap.com)
+
+<br>
+<br>
 
 
 ![original (2)](https://user-images.githubusercontent.com/82190357/137583931-03c513ea-a48b-441b-be67-ff8462385408.jpg)
@@ -129,6 +140,12 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 
 ### Team
 Dillon Carter ---|--- Felecia Helms ---|--- [Darrell Horich](https://github.com/D11eleven) ---|--- Taylor Lyons
+
+
+
+
+
+
 
 
 
