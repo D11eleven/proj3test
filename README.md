@@ -88,6 +88,8 @@ Through the use of data visualizations, large volumes of data can be readily tra
 ### Dashboard
 Bootstrap Chart.js xxxxxxxxxxxxxxxxxxx
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Deployment
 Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 
