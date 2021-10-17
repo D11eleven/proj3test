@@ -20,12 +20,12 @@
 
 
 
-#                                                               Fighting Fire with Data
+#                                                               Fighting Fire with Data <b><b><b>
 
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary><b>Table of Contents</b></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -34,22 +34,20 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Process">Process</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#ETL">ETL</a></li>
+        <li><a href="#Visualizations">Visualizations</a></li>
+        <li><a href="#Dashboard">Dashboard</a></li>
+        <li><a href="#Deployment">Deployment</a></li
       </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#xxxxx">xxxxx</a></li>
     <li><a href="#Data Sources">Data Sources</a></li>
     <li><a href="#Tools">Tools</a></li>
     <li><a href="#Team">Team</a></li>
   </ol>
 </details>
 
-<br>
 <br>
 
 
@@ -75,7 +73,6 @@ The goal of the project is to provide a consistent, comparable set of scientific
 
 ## Process
 - ETL
-- xxx
 - Visualizations
 - Dashboard
 - Deployment
