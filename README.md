@@ -45,46 +45,7 @@
 </details>
 
 <br>
-<!-- 
- <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details> 
-  
-   -->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   
 
 ## About the Project
@@ -132,13 +93,11 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 <br>
 
 
-
-
-
 ![Screenshot_1](https://user-images.githubusercontent.com/82190357/137281183-61a99571-7f9b-44b2-a7e6-bc53a48d4028.png)
 
 
-
+<b>
+<b>
 
 
 ![Screenshot_2](https://user-images.githubusercontent.com/82190357/137281299-81037403-39f6-4d31-bdc9-b2740cc2330a.png)
