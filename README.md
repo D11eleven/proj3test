@@ -75,7 +75,7 @@ The goal of the project is to provide a consistent, comparable set of scientific
 - Visualizations
 - Dashboard
 - Deployment
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### ETL
 Pandas Jupyter Notebook JSON CSV xxxxxxxxxxxxxxx
@@ -95,7 +95,7 @@ Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
 <br>
 <br>
 <br>
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ![Screenshot_1](https://user-images.githubusercontent.com/82190357/137281183-61a99571-7f9b-44b2-a7e6-bc53a48d4028.png)
 
