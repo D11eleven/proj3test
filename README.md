@@ -24,7 +24,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#Considerations">Considerations</a></li>
     <li>
-    <a href="#Process">Process</a></li?
+    <a href="#Process">Process</a></li
         <ul>
           <li><a href="#ETL">ETL</a></li>
           <li><a href="#Visualizations">Visualizations</a></li>
