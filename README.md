@@ -105,7 +105,7 @@ A Python Flask App was written to facilitate the retrieval of data from the post
 <b>
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/82190357/137281299-81037403-39f6-4d31-bdc9-b2740cc2330a.png)
+![QuickDBD-export (2)](https://user-images.githubusercontent.com/82190357/137862833-0c838645-077a-4a9a-96a5-e5932e9285ed.jpg)
 
 
 ### Data Sources
