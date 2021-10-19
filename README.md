@@ -27,10 +27,10 @@
       <li><a href="#Considerations">Considerations</a></li>
       </ul>
     <li>
-    <li>
       <a href="#Process">Process</a></li
       <ul>
       <li><a href="#ETL">ETL</a></li>
+      </ul>
       <li><a href="#Visualizations">Visualizations</a></li>
       <li><a href="#Dashboard">Dashboard</a></li>
       <li><a href="#Deployment">Deployment</a></li>
