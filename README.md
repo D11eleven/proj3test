@@ -24,16 +24,16 @@
     <li>
       <a href="#about-the-project">About The Project</a></li>
       <ul>
-      <li><a href="#Considerations">Considerations</a></li>
+        <li><a href="#Considerations">Considerations</a></li>
       </ul>
+    </li>
     <li>
-      <a href="#Process">Process</a></li
+      <a href="#Process">Process</a>
       <ul>
-      <li><a href="#ETL">ETL</a></li>
-      </ul>
-      <li><a href="#Visualizations">Visualizations</a></li>
-      <li><a href="#Dashboard">Dashboard</a></li>
-      <li><a href="#Deployment">Deployment</a></li>
+        <li><a href="#ETL">ETL</a></li>
+        <li><a href="#Visualizations">Visualizations</a></li>
+        <li><a href="#Dashboard">Dashboard</a></li>
+        <li><a href="#Deployment">Deployment</a></li>
       </ul>
     </li>
     <li><a href="#Data-Sources">Data Sources</a></li>
