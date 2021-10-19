@@ -115,7 +115,6 @@ A Python Flask App was written to facilitate the retrieval of data from the post
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
-<br>
 
 ### Tools
 - MongoDB Atlas/PostgreSQL/pgAdmin
