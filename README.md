@@ -74,6 +74,8 @@ The goal of the project is to provide a consistent, comparable set of scientific
 ### ETL
 One of the biggest challenges during  the ETL process for this project was working with a dataset that consisted of nearly 2 millions records. Pandas and  Jupyter Notebook were utilized to downscale the dataset and create dataframes that would eventually be used to create data tables in the postgres database. 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Visualizations
 Through the use of data visualizations, large volumes of data can be readily transformed into comprehensible information to assess high risk areas and help prioritize preventive action. Javascript, Plotly, and Chart.js were used to create the interactive maps and charts that are used on the dashboard. 
 
@@ -85,9 +87,8 @@ The Dashboard was constructed with Bootstrap and HTML. Focus was delivering an a
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Deployment
-Flask Api Heroku PostgreSQL xxxxxxxxxxxxx
+A Python Flask App was written to facilitate the retrieval of data from the postgres database from user requests on the webpage.  It was then deployed using Heroku to create a fully functional Web App.    
 
-<br>
 <br>
 <br>
 <br>
