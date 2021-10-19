@@ -27,13 +27,13 @@
       <li><a href="#Considerations">Considerations</a></li>
       </ul>
     <li>
-    <a href="#Process">Process</a></li
-        <ul>
-          <li><a href="#ETL">ETL</a></li>
-          <li><a href="#Visualizations">Visualizations</a></li>
-          <li><a href="#Dashboard">Dashboard</a></li>
-          <li><a href="#Deployment">Deployment</a></li>
-        </ul>
+      <a href="#Process">Process</a></li
+       <ul>
+       <li><a href="#ETL">ETL</a></li>
+       <li><a href="#Visualizations">Visualizations</a></li>
+       <li><a href="#Dashboard">Dashboard</a></li>
+       <li><a href="#Deployment">Deployment</a></li>
+       </ul>
     </li>
     <li><a href="#Data-Sources">Data Sources</a></li>
     <li><a href="#Tools">Tools</a></li>
