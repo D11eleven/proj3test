@@ -21,8 +21,11 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#Considerations">Considerations</a></li>
+    <li>
+      <a href="#about-the-project">About The Project</a></li>
+      <ul>
+      <li><a href="#Considerations">Considerations</a></li>
+      </ul>
     <li>
     <a href="#Process">Process</a></li
         <ul>
@@ -87,7 +90,7 @@ The Dashboard was constructed with Bootstrap and HTML. Focus was delivering an a
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Deployment
-A Python Flask App was written to facilitate the retrieval of data from the postgres database from user requests on the webpage.  It was then deployed using Heroku to create a fully functional Web App.    
+A Python Flask App was written to facilitate the retrieval of data from the postgres database that users requested on the dashboard. It was then deployed using Heroku to create a fully functional Web App.    
 
 <br>
 <br>
