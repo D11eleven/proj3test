@@ -19,7 +19,7 @@
 
 <a href="https://fightingfirewithdata.herokuapp.com/">FightingFireWithData WEB APP</a>
 <b>
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
