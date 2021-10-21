@@ -17,9 +17,9 @@
 #                                                               Fighting Fire with Data 
 
 
-<a href="https://fightingfirewithdata.herokuapp.com/" rel_"nofollow">
-  FightingFireWithData WEB APP</a>
-
+<a href="https://fightingfirewithdata.herokuapp.com/">FightingFireWithData WEB APP</a>
+<b>
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
